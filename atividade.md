@@ -2,7 +2,7 @@
 
 ## Um subtitulo
 
-### outro subtitulo
+### Outro subtitulo
 
 + item1
 + item2
